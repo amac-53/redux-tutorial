@@ -1,5 +1,5 @@
-# redux-tutorial
-redux officail tutorial
+# redux-tutorial part2
 
-# 内容
-ブランチごとに作業
+## プロジェクト作成
+`npx create-react-app redux-essentials-example --template redux`
+
