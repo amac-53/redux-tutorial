@@ -1,0 +1,3 @@
+[submodule "redux-essentials-example-app"]
+	path = redux-essentials-example-app
+	url = https://github.com/reduxjs/redux-essentials-example-app
